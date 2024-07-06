@@ -12,7 +12,7 @@ Installation:
 Download or clone the repository.
 Clone the repository: https://github.com/dyuk3/millicent_assignment_2.git .
 
-cd millicent_assignment
+cd millicent_assignment_2
 
 Install Dependencies: npm install or yarn install
 
