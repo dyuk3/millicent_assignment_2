@@ -50,7 +50,7 @@ const sidebarItems = [
 
 const Sidebar = () => {
   return (
-    <div className='w-80 px-10 py-10 bg-black/90 h-screen rounded-tr-xl rounded-br-xl'>
+    <div className='w-80 px-10 py-10 bg-black/90 h-screen rounded-tr-xl rounded-br-xl sticky top-0 left-0'>
       <img className='w-8 h-8' src={logo} alt='logo' />
       <div className='pt-10 flex flex-col gap-4 '>
         {sidebarItems.map((item, index) => {
