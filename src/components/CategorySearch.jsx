@@ -1,6 +1,7 @@
 import CategorySearchItem from './CategorySearchItem';
 import { SlReload } from 'react-icons/sl';
 
+// Dropdown menu array
 const searchFields = [
   {
     title: 'Role',
@@ -22,7 +23,7 @@ const searchFields = [
 
 const CategorySearch = () => {
   return (
-    <div className='text-gray-600 flex justify-items-start gap-20'>
+    <div className='text-gray-600 lg:flex justify-items-start gap-20 hidden'>
       {searchFields.map((field, index) => {
         return <CategorySearchItem key={index} data={field} />;
       })}

@@ -2,7 +2,7 @@ Project Name:
 Millicent Assignment 2
 
 Description:
-It's a simple dashboard design
+It's a simple dashboard design to show the Listings
 
 Technologies and dependencies used:
 HTML, CSS, JavaScript, ReactJS, TailwindCSS, React icons
@@ -10,7 +10,8 @@ HTML, CSS, JavaScript, ReactJS, TailwindCSS, React icons
 Installation:
 
 Download or clone the repository.
-Clone the repository: https://github.com/dyuk3/millicent_assignment_2.git
+Clone the repository: https://github.com/dyuk3/millicent_assignment_2.git .
+
 cd millicent_assignment
 
 Install Dependencies: npm install or yarn install

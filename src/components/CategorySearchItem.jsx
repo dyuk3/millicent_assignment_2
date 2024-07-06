@@ -23,7 +23,7 @@ const CategorySearchItem = ({ data }) => {
               </option>
             ))}
           </select>
-          <IoIosArrowDown className='text-emerald-500' size={0} />
+          <IoIosArrowDown className='text-emerald-500 mr-2' size={20} />
         </div>
       )}
     </div>
